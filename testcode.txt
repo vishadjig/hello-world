@@ -2,3 +2,6 @@ welcome!
 
 Hello
 Hi
+Hey
+
+Thank you
